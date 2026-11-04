@@ -1,0 +1,7 @@
+{
+  "id": "claude-flower",
+  "displayName": "Claude",
+  "description": "Theia Vogel's CC0 cartoon Claude: a wobbly terracotta flower with a sticker face, drawn procedurally in JS.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
